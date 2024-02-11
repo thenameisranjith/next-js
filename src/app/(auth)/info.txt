@@ -1,0 +1,3 @@
+it helps to orgnize the folder properly.
+
+// auth folder is not required to show everyone.
